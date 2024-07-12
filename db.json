@@ -4,5 +4,8 @@
     { "id": 2, "title": "Post 2", "author": "Jane Smith" },
     { "id": 3, "title": "Post 3", "author": "Jane Smith1" },
     { "id": 4, "title": "Post 4", "author": "Jane Smith2" }
+  ],
+  "tests": [
+    { "id": 1, "status": "success", "message": "Successful response", "data": { "trackingNumbers": [{ "trackingType": "text1", "trackingNumber": "12345" }] } }
   ]
 }
