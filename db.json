@@ -11,5 +11,8 @@
         { "trackingType": "text1", "trackingNumber": "12345" }
       ]
     }
+  },
+  "profile": {
+    "name": "typicode"
   }
 }
