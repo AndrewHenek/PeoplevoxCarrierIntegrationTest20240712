@@ -2,5 +2,14 @@
   "posts": [
     { "id": 1, "title": "Post 1", "author": "John Doe" },
     { "id": 2, "title": "Post 2", "author": "Jane Smith" }
-  ]
+  ],
+  "test" : {
+    "status": "success",
+    "message": "Successful response"
+    "data": {
+      "trackingNumbers": [
+        { "trackingType": "text1", "trackingNumber": "12345" }
+      ]
+    }
+  }
 }
